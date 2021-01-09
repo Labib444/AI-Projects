@@ -1,5 +1,5 @@
 <h3>Hello! My name is Labib Abdullah</h3>
-<p>Currently i am ML, Deep Learning enthusiast. Also i love coding in python.</p>
+<p>Currently, i am a ML, Deep Learning enthusiast. Also i love coding in python.</p>
 <p>You can check my projects related to the following list.</p>
 
 <ul>
