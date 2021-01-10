@@ -5,7 +5,7 @@
 <ul>
 	<li><a href="#">Machine Learning</a></li>
 	<li><a href="#">Deep Learning</a></li>
-	<li><a href="#">Natural Language Processing</a></li>
+	<li><a href="https://github.com/Labib444/AI-Projects/tree/main/NLP%20Projects/">Natural Language Processing</a></li>
 	<li><a href="#">Image Processing</a></li>
 </ul>
 
