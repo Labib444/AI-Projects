@@ -17,11 +17,11 @@ Showing the video of VGG16 which has full details. After that the better results
 
 
 <iframe width="420" height="315"
-src="https://drive.google.com/file/d/122nhslpaDd8GPEftuUM78gEfYuUrtdNL/view?usp=sharing">
+src="https://drive.google.com/file/d/122nhslpaDd8GPEftuUM78gEfYuUrtdNL/view">
 </iframe>
 
 <iframe width="420" height="315"
-src="https://drive.google.com/file/d/1KVs7-SqdHMVQNY9lmk6XF87LnkkvfN5D/view?usp=sharing">
+src="https://drive.google.com/file/d/1KVs7-SqdHMVQNY9lmk6XF87LnkkvfN5D/view">
 </iframe>
 
 
