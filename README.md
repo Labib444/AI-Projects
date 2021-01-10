@@ -1,4 +1,4 @@
-<h3>Hello! My name is Labib Abdullah</h3>
+<h1>Hello! My name is Labib Abdullah</h1>
 <p>Currently, i am a ML, Deep Learning enthusiast. Also i love coding in python.</p>
 <p>You can check my projects related to the following list.</p>
 
