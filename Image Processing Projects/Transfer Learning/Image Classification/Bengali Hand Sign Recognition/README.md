@@ -2,7 +2,7 @@
 <p>In the start of the project VGG16 architecture was used. Later on found better results using VGG19 architecture.
 Showing the video of VGG16 which has full details. After that the better results of VGG19 is shown.
 </p>
-<p>The training was done in google colab. After the training the weights were taken to my pc to experiment on live webcam video. Cannot use webcam using opencv in google colab because it is not allowed in colab. The the colab notebook code with the offline code has been included in this project.</p>
+<p>The training was done in google colab. After the training the weights were taken to my pc to experiment on live webcam video. Cannot use webcam using opencv in google colab because it is not allowed in colab. The the colab notebook code with the offline code has been included in this project. Images from the dataset were augmented and converted into a numpy array. I loaded the numpy array of the images into the model.</p>
 
 <p>Dataset: <a href="https://www.kaggle.com/muntakimrafi/bengali-sign-language-dataset" target="_blank">link</a></p>
 
