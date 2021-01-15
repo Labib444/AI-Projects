@@ -8,7 +8,9 @@
 	<li><a href="https://github.com/Labib444/AI-Projects/tree/main/Image%20Processing%20Projects">Image Processing</a></li>
 </ul>
 
-<h2>If you only want to see the results, I have included images or texts in every section.</h2>
+<p><b>If you only want to see the results, I have included images or texts in every section.</b></p>
+
+</br>
 
 <h1>More about me and my qualifications:</h1>
 <h3>I learned about ML and DL from online. I try to do the competitions on my own and read a lot of blogs and notebooks of ML and DL online. I have completed the Udemy Machine learning A-Z course also completed the Coursera Deep learning course taken by Andrew ng.</h3>
