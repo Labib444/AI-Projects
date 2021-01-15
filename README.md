@@ -8,7 +8,7 @@
 	<li><a href="https://github.com/Labib444/AI-Projects/tree/main/Image%20Processing%20Projects">Image Processing</a></li>
 </ul>
 
-<p><b>If you only want to see the results, I have included images or texts in every section.</b></p>
+<p><b>**If you only want to see the results, I have included images or texts in every section.**</b></p>
 
 </br>
 
