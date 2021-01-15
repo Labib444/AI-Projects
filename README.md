@@ -12,8 +12,8 @@
 
 <h1>More about me and my qualifications:</h1>
 <h3>I learned about ML and DL from online. I try to do the competitions on my own and read a lot of blogs and notebooks of ML and DL online. I have completed the Udemy Machine learning A-Z course also completed the Coursera Deep learning course taken by Andrew ng.</h3>
-<img src="images/udemy.jpg" alt="">
-<img src="images/coursera.PNG" alt="">
+<img src="images/my certificates/udemy.jpg" alt="">
+<img src="images/my certificates/coursera.PNG" alt="">
 
 
 
