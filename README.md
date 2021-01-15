@@ -2,11 +2,13 @@
 <p>I am a ML, Deep Learning enthusiast. I love python.</p>
 <p>I have uploaded a few of my projects here in github. I will upload the rest soon. You can check the projects in the following list.</p>
 
-<h2>If you only want to see the results, I have included images or texts in every section.</h2>
-
 <ul>
 	<li><a href="https://github.com/Labib444/AI-Projects/tree/main/Machine%20Learning%20Projects/Titanic%20Competition%20(Kaggle)">Machine Learning</a></li>
 	<li><a href="https://github.com/Labib444/AI-Projects/tree/main/NLP%20Projects/">Natural Language Processing</a></li>
 	<li><a href="https://github.com/Labib444/AI-Projects/tree/main/Image%20Processing%20Projects">Image Processing</a></li>
 </ul>
+
+<h2>If you only want to see the results, I have included images or texts in every section.</h2>
+
+
 
