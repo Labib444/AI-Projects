@@ -1,4 +1,4 @@
-<h1>Sentiment Analysis using Bidirectional LSTM using Attention</h1>
+<h1>Sentiment Analysis using Bidirectional LSTM and Attention</h1>
 <p>Competition Name: Identify the Sentiments</p>
 <p>Competition: <a href="https://datahack.analyticsvidhya.com/contest/all" >website</a></p>
 <p>I used Bidirectional LSTM with attention. Furthermore, i have used glove English 100 dimentional embeddings. The 
